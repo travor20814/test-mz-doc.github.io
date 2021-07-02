@@ -1,0 +1,1 @@
+(self.webpackChunksite=self.webpackChunksite||[]).push([[2535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/test-mz-doc.github.io/blog/welcome"},{"title":"Hello","permalink":"/test-mz-doc.github.io/blog/hello-world"},{"title":"Hola","permalink":"/test-mz-doc.github.io/blog/hola"}]}')}}]);
