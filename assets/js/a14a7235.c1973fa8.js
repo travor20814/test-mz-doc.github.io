@@ -1,0 +1,1 @@
+(self.webpackChunksite=self.webpackChunksite||[]).push([[9454],{2044:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/test-mz-doc.github.io/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/test-mz-doc.github.io/blog/tags/docusaurus"}')}}]);
